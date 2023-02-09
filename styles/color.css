@@ -1,0 +1,9 @@
+* {
+    font-family: 'Kanit', sans-serif;
+}
+
+.header-part {
+    display: flex;
+}
+
+.header-text {}
